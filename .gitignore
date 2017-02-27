@@ -1,0 +1,7 @@
+/.idea
+tags
+*.swp
+*.pyc
+*.pyo
+*.swo
+*.orig
